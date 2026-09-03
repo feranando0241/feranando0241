@@ -14,7 +14,7 @@ Computer Science & Engineering student focused on software development, systems,
 ### Tech & Tools
 
 - **Languages:** Java, Python, Rust, C++, VHDL, SQL
-- **Environments & Workflow:** Linux, macOS, Git, VS Code
+- **Environments & Workflow:** Linux, macOS, Git, IntelJ and VS Code
 - **Core Interests:** Software Architecture, Systems Security, Digital Logic Design, Low-Level Systems
 
 ---
