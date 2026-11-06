@@ -98,14 +98,6 @@ Video game library and play tracker built for the Databases course (team project
 
 ---
 
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=feranando0241&bg_color=0d1117&color=7DD3FC&line=38BDF8&point=E0F2FE&area=true&area_color=38BDF8&hide_border=true" width="100%" alt="Contribution graph" />
-</p>
-
----
-
 ### Outside the Terminal
 
 When I'm away from the keyboard, you'll usually find me weight training, practicing kickboxing, listening to music, or hunting down a solid cup of matcha.
