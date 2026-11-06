@@ -98,14 +98,6 @@ Video game library and play tracker built for the Databases course (team project
 
 ---
 
-### Contributions
-
-<p align="center">
-  <img src="assets/contributions.svg" width="100%" alt="Weekly GitHub contributions over the last year" />
-</p>
-
----
-
 ### Outside the Terminal
 
 When I'm away from the keyboard, you'll usually find me weight training, practicing kickboxing, listening to music, or hunting down a solid cup of matcha.
