@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:b7410e&height=180&section=header&text=Andr%C3%A9s%20L%C3%B3pez&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20%26%20Engineering%20%C2%B7%20University%20of%20Louisville&descAlignY=58&descSize=16" width="100%" alt="Andrés López" />
+<img src="assets/header.svg" width="100%" alt="" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=B7410E&center=true&vCenter=true&width=520&lines=Systems+%26+low-level+architecture;Building+OxideClean+in+Rust;Shipping+production+web+apps+for+real+clients" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=44&duration=1&pause=100000&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Andr%C3%A9s+L%C3%B3pez" alt="Andrés López" />
+
+**Computer Science & Engineering · University of Louisville**
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Systems+%26+low-level+architecture;Building+OxideClean+in+Rust;Shipping+production+web+apps+for+real+clients" alt="Typing SVG" /></a>
 
 <br/>
 
-<a href="mailto:fernandito12205@gmail.com"><img src="https://img.shields.io/badge/Email-fernandito12205%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.academiageorge.com"><img src="https://img.shields.io/badge/Live%20Work-academiageorge.com-b7410e?style=for-the-badge&logo=vercel&logoColor=white" alt="Live work" /></a>
+<a href="mailto:fernandito12205@gmail.com"><img src="https://img.shields.io/badge/Email-fernandito12205%40gmail.com-0C4A6E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.academiageorge.com"><img src="https://img.shields.io/badge/Live%20Work-academiageorge.com-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Live work" /></a>
 
 </div>
 
@@ -45,7 +49,7 @@ Fashion design school in El Salvador with campuses in San Salvador and San Migue
 Terminal file scanner and organizer: SHA-256 duplicate detection, document similarity analysis (vocabulary + bigrams), forgotten-file and stale build-folder detection. CI on macOS and Linux.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CI](https://img.shields.io/badge/CI-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -86,7 +90,7 @@ Video game library and play tracker built for the Databases course (team project
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,java,python,ts,cpp,mysql&theme=dark" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,vercel,githubactions&theme=dark" alt="Frameworks and deployment" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,vercel,github&theme=dark" alt="Frameworks and deployment" /><br/>
   <img src="https://skillicons.dev/icons?i=git,linux,apple,vscode&theme=dark" alt="Workflow" />
 </p>
 
@@ -97,7 +101,7 @@ Video game library and play tracker built for the Databases course (team project
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=feranando0241&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=feranando0241&bg_color=0d1117&color=7DD3FC&line=38BDF8&point=E0F2FE&area=true&area_color=38BDF8&hide_border=true" width="100%" alt="Contribution graph" />
 </p>
 
 ---
@@ -106,4 +110,4 @@ Video game library and play tracker built for the Databases course (team project
 
 When I'm away from the keyboard, you'll usually find me weight training, practicing kickboxing, listening to music, or hunting down a solid cup of matcha.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b7410e,100:0f172a&height=100&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
