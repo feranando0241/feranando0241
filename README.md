@@ -103,7 +103,7 @@ Video game library and play tracker built for the Databases course (team project
 When I'm away from the keyboard, you'll usually find me weight training, practicing kickboxing, listening to music, or hunting down a solid cup of matcha.
 
 <p align="center">
-  <img src="assets/outside.svg" width="260" alt="Boxing glove plus a bowl of matcha" />
+  <img src="assets/outside.svg" width="300" alt="Pair of boxing gloves joined by a lace, plus a bowl of matcha" />
 </p>
 
 <img src="assets/footer.svg" width="100%" alt="" />
