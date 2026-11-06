@@ -4,7 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=44&duration=1&pause=100000&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Andr%C3%A9s+L%C3%B3pez" alt="Andrés López" />
 
-**Computer Science & Engineering · University of Louisville**
+**Computer Science & Engineering · University of Louisville**<br/>
+Expected graduation: April 2028 · Seeking a Co-op for January – April 2027
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Systems+%26+low-level+architecture;Building+OxideClean+in+Rust;Shipping+production+web+apps+for+real+clients" alt="Typing SVG" /></a>
 
@@ -67,7 +68,7 @@ Searchable, filterable SPA built for the UofL coding challenge. A Python pipelin
 <td width="50%" valign="top">
 
 #### [Geekbond](https://github.com/juandcq2006/GameLibrary-DataBases-)
-Video game library and play tracker built for the Databases course (team project).
+Video game library and play tracker built for the Databases course (team project, in development).
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -89,12 +90,12 @@ Video game library and play tracker built for the Databases course (team project
 ### Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,java,python,ts,cpp,mysql&theme=dark" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=rust,java,python,ts,mysql&theme=dark" alt="Languages" /><br/>
   <img src="https://skillicons.dev/icons?i=react,vite,nodejs,vercel,github&theme=dark" alt="Frameworks and deployment" /><br/>
   <img src="https://skillicons.dev/icons?i=git,linux,apple,vscode&theme=dark" alt="Workflow" />
 </p>
 
-**Also:** VHDL · **Core interests:** Software Architecture, Systems Security, Digital Logic Design, Low-Level Systems
+**Core interests:** Software Architecture, Systems Security, Digital Logic Design, Low-Level Systems
 
 ---
 
